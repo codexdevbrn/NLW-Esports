@@ -52,6 +52,7 @@ Após iniciar o Back-End, rode as aplicações, seja web ou mobile, e as utilize
 ### `Importante`
 
 Uma vez que se trata de um aplicação completa, é necessário que a parcela referente ao Back-End esteja operando concomitantemente às parcelas do Front-End.
+
 Caso esteja rodando a aplicação em sua máquina e o front-end não estiver buscando as requisições do back-end, certifique-se que seu ip continua o mesmo que estão apontados nos Hooks do front-end.
 
 ------------------------------------------------------------------
